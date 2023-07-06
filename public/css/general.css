@@ -26,7 +26,6 @@ body {
     background-image: url('/img/bg-body.png');
     font-family: "Roboto-Sanserif";
     margin: 0 10px;
-    max-width: 1180px;
 }
 
 @media (min-width: 1180px) {
